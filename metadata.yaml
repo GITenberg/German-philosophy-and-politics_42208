@@ -1,0 +1,31 @@
+_repo: German-philosophy-and-politics_42208
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42208-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: '1. German philosophy: the two worlds -- 2. German moral and political
+  philosophy -- 3. The Germanic philosophy of history.'
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42208'
+  lccn: '15013173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, German'
+tableOfContents: '1. German philosophy: the two worlds -- 2. German moral and political
+  philosophy -- 3. The Germanic philosophy of history.'
+title: German philosophy and politics
+url: http://www.gutenberg.org/ebooks/42208
