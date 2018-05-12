@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Dewey
 description: '1. German philosophy: the two worlds -- 2. German moral and political
   philosophy -- 3. The Germanic philosophy of history.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42208#German-philosophy-and-politics
 gutenberg_issued: '2013-02-26'
 gutenberg_type: Text
 identifiers:
