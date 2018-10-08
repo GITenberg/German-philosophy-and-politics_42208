@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'B'
 - !lcsh 'Philosophy, German'
+- GITenberg
 tableOfContents: '1. German philosophy: the two worlds -- 2. German moral and political
   philosophy -- 3. The Germanic philosophy of history.'
 title: German philosophy and politics
